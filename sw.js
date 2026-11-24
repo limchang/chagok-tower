@@ -1,8 +1,8 @@
-const CACHE_NAME = "chagok-tower-pwa-a545e1da7e";
+const CACHE_NAME = "chagok-tower-pwa-c0c7996509";
 const PRECACHE_URLS = [
   "./",
-  "./assets/index-BC5jtTbN.css",
-  "./assets/index-DE-uOeA9.js",
+  "./assets/index-CES_T2_C.css",
+  "./assets/index-XGyfCFvH.js",
   "./icon.svg",
   "./icons/icon-192.png",
   "./icons/icon-512-maskable.png",
